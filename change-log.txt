@@ -20,6 +20,7 @@ update 02-02-2022
 - added sstp
 - added l2tp
 - can force install script without rebuild
+* backup data client wajib biar bisa di restore
 
 ———————
 
