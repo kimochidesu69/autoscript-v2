@@ -35,6 +35,8 @@ update 15-02-2022
 - added vless ws none-tls 8880
 - added vmess tcp tls 443
 - added change-port menu for none-tls
+- added check user login for none-tls (cek-none)
+- change name monitor to (cek-tls)
 
 ———————
 
