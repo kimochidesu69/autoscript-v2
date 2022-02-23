@@ -24,7 +24,7 @@ update 02-02-2022
 ———————
 
 update 14-02-2022
-- make script stable for debian 11
+- make script support for debian 11
 
 ———————
 
