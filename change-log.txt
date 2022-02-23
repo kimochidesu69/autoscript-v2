@@ -1,4 +1,6 @@
 update 27-01-2022
+- start make script
+- named simple-autoscript
 - upgrade stunnel4 to stunnel5
 - added xray service :
   vmess ws tls 443
@@ -16,7 +18,7 @@ update 28-01-2022
 ———————
 
 update 02-02-2022
-- change name simple autoscript to autoscript v2
+- change name simple-autoscript to autoscript v2
 - added sstp
 - added l2tp
 - can force install script without rebuild
