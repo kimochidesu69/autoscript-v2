@@ -1,0 +1,48 @@
+update 27-01-2022
+- upgrade stunnel4 to stunnel5
+- added xray service :
+  vmess ws tls 443
+  vless xtls 443
+  trojan tcp 443
+- added change port for vmess,vless,trojan
+- added change port for ssh ws ssl
+
+———————
+
+update 28-01-2022
+- fix typo text menu
+- fix error stunnel5
+
+———————
+
+update 02-02-2022
+- change name simple autoscript to autoscript v2
+- added sstp
+- added l2tp
+- can force script without rebuild
+
+———————
+
+update 14-02-2022
+- make script stable for debian 11
+
+———————
+
+update 15-02-2022
+- added auto reboot every 2 days ( 23.00 pm | wib )
+- added vmess ws none-tls 8880
+- added vless ws none-tls 8880
+- added vmess tcp tls 443
+- added change-port menu for none-tls
+
+———————
+
+update 18-02-2022
+- improve security script
+
+———————
+
+update 25-02-2022
+- fix error squid for debian 11
+- fix error ssh ws ssl for debian 9
+- fix error stunnel5 for debian 9
