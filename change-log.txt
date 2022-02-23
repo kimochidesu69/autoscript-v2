@@ -49,6 +49,7 @@ update 15-02-2022
 
 update 18-02-2022
 - improve security script
+- fix restore user account ssh show expired : lifetime
 
 ———————
 
