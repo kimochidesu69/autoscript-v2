@@ -7,9 +7,9 @@ start 25-01-2022
 update 27-01-2022
 - upgrade stunnel4 to stunnel5
 - added xray service :
-  vmess ws tls 443
-  vless xtls 443
-  trojan tcp 443
+  xray vmess ws tls 443
+  xray vless xtls 443
+  xray trojan tcp 443
 - added change port for vmess,vless,trojan
 - added change port for ssh ws ssl
 - added cek user login vmess,vless,trojan tls (monitor)
@@ -38,9 +38,9 @@ update 14-02-2022
 
 update 15-02-2022
 - added auto reboot every 2 days ( 23.00 pm | wib )
-- added vmess ws none-tls 8880
-- added vless ws none-tls 8880
-- added vmess tcp tls 443
+- added xray vmess ws none-tls 8880
+- added xray vless ws none-tls 8880
+- added xray vmess tcp tls 443
 - added change-port menu for none-tls
 - added check user login for none-tls (cek-none)
 - change name monitor to (cek-tls)
@@ -59,3 +59,9 @@ update 24-02-2022
 - fix error stunnel5 for debian 9
 - added ovpn
 - added change-port menu for ovpn ssl
+
+———————
+
+update 26-02-2022
+- fix typo menu
+- added xray trojan websocket 443
