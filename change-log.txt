@@ -65,3 +65,11 @@ update 24-02-2022
 update 26-02-2022
 - fix typo menu
 - added xray trojan websocket 443
+
+———————
+
+update 01-03-2022
+- added backup data via bot telegram
+* alternatif buat smtp port yang di block
+- added ovpn websocket http port 2095
+- fix some typo menu
