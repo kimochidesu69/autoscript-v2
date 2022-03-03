@@ -39,6 +39,23 @@ NONE-TLS
 - vmess ws
 
 - vless ws
+
+# Spec Required
+
+Minimum
+
+- ram 1
+
+- cpu 1
+
+- storage 20
+
+OS :
+
+- Ubuntu 18.04, 20.04, 21.04
+
+- Debian 9, 10, 11
+
 # Screnshoot
 ![20220303_152135](https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg)
 
