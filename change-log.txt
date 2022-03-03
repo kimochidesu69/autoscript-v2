@@ -73,3 +73,9 @@ update 01-03-2022
 * alternatif buat smtp port yang di block
 - added ovpn websocket http port 2095
 - fix some typo menu
+
+———————
+
+update 03-03-2022
+- fix port none tls ( vmess & vless ) sunek
+- change posisi bug & domain di trojan ws
