@@ -1,5 +1,5 @@
 # Autoscript v2
-developer : william
+Developer : william
 
 # Contact
 https://t.me/user_legend
