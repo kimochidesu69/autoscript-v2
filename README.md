@@ -17,6 +17,8 @@ https://t.me/user_legend
 ⟩ 3 ip / 120k lifetime
 
 ⟩ 5 ip / 180k lifetime
+# Engine
+» Xray Core v1.5.2
 # Screnshoot
 ![20220303_152135](https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg)
 
