@@ -1,5 +1,5 @@
 # Autoscript v2
-developeler : william
+developer : william
 
 # Contact
 https://t.me/user_legend
@@ -18,7 +18,27 @@ https://t.me/user_legend
 
 ⟩ 5 ip / 180k lifetime
 # Engine
-» Xray Core v1.5.2
+» Xray Core v1.5.2 with multi port included
+
+TLS
+
+- vmess ws
+
+- vless ws
+
+- vless xtls
+
+- vmess tcp
+
+- trojan tcp
+
+- trojan ws
+
+NONE-TLS
+
+- vmess ws
+
+- vless ws
 # Screnshoot
 ![20220303_152135](https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg)
 
