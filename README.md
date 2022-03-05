@@ -42,6 +42,11 @@ NONE-TLS
 
 BEBAS GANTI PORT SESUKA HATI 🔥
 
+CEK USER LOGIN 🔥
+
+BACKUP DATA VIA BOT TELEGRAM 🔥
+*alternatif buat vps yang block port smtp
+
 # Spec Required
 
 Minimum
