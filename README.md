@@ -14,9 +14,9 @@ https://t.me/user_legend
 # Harga Lifetime
 ⟩ 1 ip / 60k lifetime
 
-⟩ 3 ip / 120k lifetime
+⟩ 3 ip / 100k lifetime
 
-⟩ 5 ip / 180k lifetime
+⟩ 5 ip / 140k lifetime
 # Engine
 » Xray Core v1.5.3 with multi port included
 
