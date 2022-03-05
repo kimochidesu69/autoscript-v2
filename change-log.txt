@@ -77,5 +77,11 @@ update 01-03-2022
 ———————
 
 update 03-03-2022
-- fix port none tls ( vmess & vless ) sunek
+- fix port none tls ( vmess & vless )
 - change posisi bug & domain di trojan ws
+
+———————
+
+update 05-03-2022
+- update core xray to latest version (v1.5.3)
+- now you can choose to use your domain or default domain script in first installation
