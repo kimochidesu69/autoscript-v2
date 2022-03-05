@@ -18,7 +18,7 @@ https://t.me/user_legend
 
 ⟩ 5 ip / 180k lifetime
 # Engine
-» Xray Core v1.5.2 with multi port included
+» Xray Core v1.5.3 with multi port included
 
 TLS
 
