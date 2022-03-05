@@ -22,23 +22,23 @@ https://t.me/user_legend
 
 TLS
 
-- vmess ws
+- vmess ws 443
 
-- vless ws
+- vless ws 443
 
-- vless xtls
+- vless xtls 443
 
-- vmess tcp
+- vmess tcp 443
 
-- trojan tcp
+- trojan tcp 443
 
-- trojan ws
+- trojan ws 443
 
 NONE-TLS
 
-- vmess ws
+- vmess ws 8880
 
-- vless ws
+- vless ws 8880
 
 # Spec Required
 
