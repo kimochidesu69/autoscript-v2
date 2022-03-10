@@ -70,6 +70,7 @@ OS :
 
 - Debian 9, 10, 11
 
+- recommended : ubuntu 20.04 lts
 # Screnshoot
 ![20220303_152135](https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg)
 
