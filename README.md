@@ -72,6 +72,6 @@ OS :
 
 - recommended : ubuntu 20.04 lts
 # Screnshoot
-![20220303_152135](https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg)
+<img src="https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg" width="400" height="600">
 
-![20220309_221942](https://user-images.githubusercontent.com/98534660/157460111-add6cf72-d56b-4391-adbb-3e4790154d2c.jpg)
+<img src="https://user-images.githubusercontent.com/98534660/157460111-add6cf72-d56b-4391-adbb-3e4790154d2c.jpg" width="400" height="600">
