@@ -68,3 +68,6 @@ tampilan menu
 
 log info
 <img src="https://user-images.githubusercontent.com/98534660/157669407-ab3f62a2-1a94-4e1f-a479-616a6b172abb.jpg" width="400" height="600">
+
+tampilan backup via bot telegram
+<img src="https://user-images.githubusercontent.com/98534660/157803371-67b79480-4844-41f2-a417-4a225b7ec580.jpg" width="400" height="600">
