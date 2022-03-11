@@ -42,20 +42,6 @@ NONE-TLS
 
 - vless ws 8880
 
-========================================
-
-BEBAS GANTI PORT SESUKA HATI 🔥
-
-CEK USER LOGIN 🔥
-
-AUTO-DELETE EXPIRED ACCOUNT 🔥
-
-BACKUP DATA VIA BOT TELEGRAM 🔥
-
-*alternatif buat vps yang block port smtp
-
-========================================
-
 # Spec Required
 
 Minimum
