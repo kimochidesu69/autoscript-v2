@@ -85,3 +85,11 @@ update 03-03-2022
 update 05-03-2022
 - update core xray to latest version (v1.5.3)
 - now you can choose to use your domain or default domain script in first installation
+
+———————
+
+update 12-03-2022
+- fix error nginx in debian 9
+- fix error sslh in debian 9
+- fix error clear-log in debian 9
+- fix beberapa typo menu
