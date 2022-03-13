@@ -64,7 +64,7 @@ tampilan saat login
 <img src="https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg" width="400" height="600">
 
 tampilan menu
-<img src="https://user-images.githubusercontent.com/98534660/157805466-b2af6b70-f500-4442-b8d2-0fa799c430cc.jpg" width="400" height="600">
+<img src="https://user-images.githubusercontent.com/98534660/158039635-ee96fe00-4d60-44ed-bf41-a5a9a40d4344.jpg" width="400" height="600">
 
 log info
 <img src="https://user-images.githubusercontent.com/98534660/157669407-ab3f62a2-1a94-4e1f-a479-616a6b172abb.jpg" width="400" height="600">
