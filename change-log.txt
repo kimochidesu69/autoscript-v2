@@ -93,3 +93,15 @@ update 12-03-2022
 - fix error sslh in debian 9
 - fix error clear-log in debian 9
 - fix beberapa typo menu
+
+———————
+
+update 18-03-2022
+- fix vmess none-tls susah konek
+- update cek-tls buat detect user method cdn
+- update cek-none buat detect user method cdn
+- sekarang cek user login lebih cepat
+
+info aja sih :
+method cdn disini maksudnya user yang menggunakan method bolak balik (bug di server)
+nah di cek-tls & none versi lawas belum bisa ngedeteksi nya
