@@ -24,9 +24,9 @@ https://t.me/user_legend
 
 TLS
 
-- vmess over websocket with tls
+- vmess over websocket with tls 443
 
-- vless over websocket with tls
+- vless over websocket with tls 443
 
 - vless over xtls 443
 
