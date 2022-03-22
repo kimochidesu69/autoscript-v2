@@ -20,7 +20,7 @@ https://t.me/user_legend
 
 - Req Unli IP & Lifetime ? Bisa kok 🙂
 # Engine
-» Xray Core v1.5.3 with multi port included
+» Xray Core v1.5.4 with multi port included
 
 TLS
 
