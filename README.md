@@ -24,23 +24,23 @@ https://t.me/user_legend
 
 TLS
 
-- vmess ws 443
+- vmess over websocket with tls
 
-- vless ws 443
+- vless over websocket with tls
 
-- vless xtls 443
+- vless over xtls 443
 
-- vmess tcp 443
+- vmess over tcp with tls 443
 
-- trojan tcp 443
+- trojan over tcp with tls 443
 
-- trojan ws 443
+- trojan over websocket with tls 443
 
 NONE-TLS
 
-- vmess ws 8880
+- vmess over websocket with none-tls 8880
 
-- vless ws 8880
+- vless over websocket with none-tls 8880
 
 
 BEBAS GANTI PORT 🔥
