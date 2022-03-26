@@ -105,3 +105,10 @@ update 18-03-2022
 info aja sih :
 method cdn disini maksudnya user yang menggunakan method bolak balik (bug di server)
 nah di cek-tls & none versi lawas belum bisa ngedeteksi nya
+
+———————
+
+update 26-03-2022
+- added os system,kernel type,total usage ram di awal tampilan saat login
+- update core xray ke latest version 1.5.4
+- fix cert link di add-sstp
