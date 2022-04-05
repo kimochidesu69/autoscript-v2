@@ -116,7 +116,7 @@ update 26-03-2022
 ———————
 
 update 06-03-2922
-- menambah encrypt-tool
-- menambah validasi cek port 80 saat add domain
-- menambah protocol slowdns
-- menambah default domain script untuk slowdns saat awal penginstalan
+- added encrypt-tool
+- added validate check port 80 when add / force domain
+- added protocol slowdns
+- added default domain script for slowdns in first setup
