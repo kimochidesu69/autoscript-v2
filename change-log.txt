@@ -112,3 +112,11 @@ update 26-03-2022
 - added os system,kernel type,total usage ram di awal tampilan saat login
 - update core xray ke latest version 1.5.4
 - fix cert link di add-sstp
+
+———————
+
+update 06-03-2922
+- menambah encrypt-tool
+- menambah validasi cek port 80 saat add domain
+- menambah protocol slowdns
+- menambah default domain script untuk slowdns saat awal penginstalan
