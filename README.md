@@ -19,7 +19,7 @@ https://t.me/user_legend
 ⟩ 5 ip / 140k lifetime
 
 - Req Unli IP & Lifetime ? Bisa kok 🙂
-# Engine
+# Engine & Protocol
 » Xray Core v1.5.4 with multi port included
 
 TLS
@@ -42,6 +42,17 @@ NONE-TLS
 
 - vless over websocket with none-tls 8880
 
+# Other Protocol
+
+- ssh ssl/stunnel with ws & ws ssl
+
+- ovpn tcp,udp,ssl with ws
+
+- slowdns
+
+- l2tp
+
+- sstp
 
 BEBAS GANTI PORT 🔥
 
