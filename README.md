@@ -75,13 +75,10 @@ OS :
 - recommended : ubuntu 20.04 lts
 # Screnshoot
 tampilan saat login
-<img src="https://user-images.githubusercontent.com/98534660/156516320-ed596689-9ab3-47b7-868a-a6688aa486fe.jpg" width="400" height="600">
+<img src="https://user-images.githubusercontent.com/98534660/161991932-67b76673-ef82-49f2-83fa-b15a5622fa16.jpg" width="400" height="600">
 
 tampilan menu
-<img src="https://user-images.githubusercontent.com/98534660/158039635-ee96fe00-4d60-44ed-bf41-a5a9a40d4344.jpg" width="400" height="600">
+<img src="https://user-images.githubusercontent.com/98534660/161992881-4de74acd-14e6-44f9-ba87-12da2e227578.jpg" width="400" height="600">
 
 log info
 <img src="https://user-images.githubusercontent.com/98534660/157669407-ab3f62a2-1a94-4e1f-a479-616a6b172abb.jpg" width="400" height="600">
-
-tampilan backup via bot telegram
-<img src="https://user-images.githubusercontent.com/98534660/157803371-67b79480-4844-41f2-a417-4a225b7ec580.jpg" width="400" height="600">
