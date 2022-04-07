@@ -44,15 +44,15 @@ NONE-TLS
 
 # Other Protocol
 
-- ssh ssl/stunnel with ws & ws ssl
+- ssh ssl/stunnel with ws & ws ssl 6443
 
-- ovpn tcp,udp,ssl with ws
+- ovpn tcp,udp,ssl with ws 1194,2200,442,2095
 
-- slowdns
+- slowdns 53,5300
 
-- l2tp
+- l2tp 1701
 
-- sstp
+- sstp 444
 
 BEBAS GANTI PORT 🔥
 
