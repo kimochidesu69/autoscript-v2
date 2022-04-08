@@ -72,7 +72,7 @@ OS :
 
 - Debian 9, 10, 11
 
-- recommended : ubuntu 20.04 lts
+- recommended : debian 10 & ubuntu 20.04
 # Screnshoot
 tampilan saat login
 <img src="https://user-images.githubusercontent.com/98534660/161991932-67b76673-ef82-49f2-83fa-b15a5622fa16.jpg" width="400" height="600">
