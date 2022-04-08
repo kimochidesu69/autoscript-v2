@@ -64,7 +64,7 @@ Minimum
 
 - cpu 1
 
-- storage 20
+- storage 16gb
 
 OS :
 
