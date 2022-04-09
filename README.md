@@ -1,7 +1,7 @@
 # Autoscript v2
 Developer : william
 
-# Contact
+# Contact For Buying Or Asking
 https://t.me/user_legend
 
 # Harga 1 Bulan
