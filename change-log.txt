@@ -121,6 +121,8 @@ update 06-03-2922
 - added protocol slowdns
 - added default domain script for slowdns in first setup
 
+———————
+
 05 - 04 - 2022 -> 12 -04 - 2022
 added change ns domain host
 cek traffic bandwidth user xray-tls
