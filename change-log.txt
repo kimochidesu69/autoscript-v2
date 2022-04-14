@@ -133,8 +133,7 @@ fixed some bugs
 ———————
 
 update 14-04-2022
-- memperbaiki masalah service sstp error di debian 11
+- fixed sstp service error on debian 11
 - added fix-kernel-cloud
-fungsi nya : mengubah kernel bertype cloud ke type yang support l2tp khusus debian 9/10.
-bagi yang telah mencoba command update-kernel tapi masih tetap ada cloud nya bisa pake cara ini.
-- beberapa improvement lagi
+function : change type kernel cloud to type support l2tp, only for debian 9/10.
+- more improvement
